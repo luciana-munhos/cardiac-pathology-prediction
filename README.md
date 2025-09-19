@@ -18,7 +18,8 @@ This project includes two main tasks:
    - Segments the left ventricle from CMRI images.  
    - Provides a preprocessing and pipeline setup suitable for medical image segmentation.  
 
-The **main notebook** that integrates all steps of the challenge is CHALLENGE_LUCIANAMUNHOS.ipynb
+The **main notebook** that integrates all steps of the challenge is CHALLENGE_LUCIANAMUNHOS.ipynb.
+
 Final model achieved 88% accuracy on the test set.
 
 ---
